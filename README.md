@@ -3,7 +3,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=antuneslv" alt="Leandro Vendemiatto Antunes's Profile Views" />
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-LeandroAntunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-vendemiatto-antunes/)](https://www.linkedin.com/in/leandro-vendemiatto-antunes/) 
-[![Hotmail Badge]([https://img.shields.io/badge/-antuneslv@hotmail.com-c14438?style=flat-square&logo=Microsoft_Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)&logoColor=white&link=mailto:antuneslv@hotmail.com)](mailto:antuneslv@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/antuneslv@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:antuneslv@hotmail.com)](mailto:antuneslv@hotmail.com)
 
 <!--![Leandro Vendemiatto Antunes's github stats](https://github-readme-stats.vercel.app/api?username=antuneslv&show_icons=true&theme=tokyonight)-->
 
