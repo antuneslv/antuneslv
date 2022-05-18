@@ -9,7 +9,7 @@
 
 ## About me
 
-💻 &nbsp;Desenvolvedor Web Full Stack  
+💻 &nbsp;Full Stack Web Developer
 📚 &nbsp;Civil Engineer
 
 ## 🛠️ Skills
